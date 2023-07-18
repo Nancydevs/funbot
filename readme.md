@@ -7,7 +7,7 @@ This is a simple Discord bot that implements a personality test. The bot allows 
 1. Clone the repository or download the source code for the bot.
 2. Install the required dependencies: `pip install discord.py`
 3. Create a new Discord bot and obtain the bot token.
-4. Set the bot token as an environment variable: `export google_bot_key=YOUR_BOT_TOKEN`
+4. Set the bot token as an environment variable: `export token=YOUR_BOT_TOKEN`
 5. Run the bot script: `python bot.py`
 6. Invite the bot to your Discord server and give it the necessary permissions.
 7. Use the following commands:
@@ -15,6 +15,6 @@ This is a simple Discord bot that implements a personality test. The bot allows 
    - `!start`: Initiates the personality test.
    - `!info`: Provides basic information about the bot and its commands.
 
-Note: Make sure to include the `keep_alive.py` file in the same directory as the bot script to keep it running continuously.
+
 
 Feel free to customize the bot's behavior, questions, personality types, and persona images according to your preferences and requirements.
